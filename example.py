@@ -1,2 +1,3 @@
 def example():
-    print "hola!"
+    print("hola!")
+    
