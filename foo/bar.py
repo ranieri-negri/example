@@ -1,2 +1,3 @@
 def lorem():
-    print "buenos dias!"
+    print("buenos dias!")
+    
